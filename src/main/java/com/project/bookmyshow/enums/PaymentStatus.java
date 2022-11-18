@@ -1,2 +1,7 @@
-package com.project.bookmyshow.enums;public enum PaymentStatus {
+package com.project.bookmyshow.enums;
+
+public enum PaymentStatus {
+    DONE,
+    PENDING,
+    FAILED
 }

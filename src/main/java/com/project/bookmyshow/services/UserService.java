@@ -1,2 +1,10 @@
-package com.project.bookmyshow.services;public class UserService {
+package com.project.bookmyshow.services;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UserService {
+
+
+
 }

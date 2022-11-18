@@ -14,7 +14,7 @@ import java.util.Date;
 @Getter
 @NoArgsConstructor
 @MappedSuperclass
-public abstract class BaseModel {
+public abstract class Auditable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

@@ -1,2 +1,7 @@
-package com.project.bookmyshow.enums;public enum PaymentMode {
+package com.project.bookmyshow.enums;
+
+public enum PaymentMode {
+    UPI,
+    CARD,
+    Net_Banking
 }
